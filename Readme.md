@@ -1,0 +1,1 @@
+A repository for me to learn OpenCV from https://www.youtube.com/watch?v=oXlwWbU8l2o
