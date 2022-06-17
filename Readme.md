@@ -5,3 +5,4 @@
     2. Get into the virtualenv - '.\virtualenv\Scripts\activate'
     3. install opencv - 'pip install opencv-contrib-python'
     4. install caer - 'pip install caer'
+    5. install matplotlib - 'pip install matplotlib'
